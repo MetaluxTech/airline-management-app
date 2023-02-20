@@ -1,7 +1,11 @@
+import Sidebar from './components/Sidebar'
+import Table from './components/Table'
+
 function App() {
   return (
-    <div className="container">
-      <div className="">Hello World</div>
+    <div className="main">
+      <Sidebar />
+      <Table />
     </div>
   )
 }

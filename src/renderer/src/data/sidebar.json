@@ -1,0 +1,72 @@
+[
+  {
+    "title": "الحجز",
+    "icon": "bi bi-archive",
+    "childrens": [
+      {
+        "title": "اضافة حجز",
+        "path": "/الأرشيف"
+      },
+      {
+        "title": "الحجوزات",
+        "path": "/الأرشيف"
+      }
+    ]
+  },
+  {
+    "title": "الجرد",
+    "icon": "bi bi-bookmark-check",
+    "childrens": [
+      {
+        "title": "جرد يومي",
+        "icon": "",
+        "path": "/"
+      },
+      {
+        "title": "جرد اسبوعي",
+        "icon": "",
+        "path": "/جرد اسبوعي"
+      },
+      {
+        "title": "جرد شهري",
+        "icon": "",
+        "path": "/جرد-شهري"
+      }
+    ]
+  },
+  {
+    "title": "الأرشيف",
+    "icon": "bi bi-archive",
+    "childrens": [
+      {
+        "title": "الأرشيف",
+        "path": "/الأرشيف"
+      }
+    ]
+  },
+  {
+    "title": "الحسابات",
+    "icon": "bi bi-coin",
+    "childrens": [
+      {
+        "title": "الحسابات",
+        "path": "/الحسابات"
+      }
+    ]
+  },
+  {
+    "title": "التقارير",
+    "icon": "bi bi-card-list",
+    "childrens": [
+      {
+        "title": "التقارير",
+        "path": "/التقارير"
+      }
+    ]
+  },
+  {
+    "title": "الاعدادت",
+    "icon": "bi bi-gear",
+    "path": "/الاعدادت"
+  }
+]
